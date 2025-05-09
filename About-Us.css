@@ -1,0 +1,50 @@
+.u-section-1 {
+  background-color: #f2f2f2;
+  min-height: 100vh;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+  padding: 40px 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 100%;
+  min-height: 600px;
+  background-color: #ffffff;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin: 0 auto 30px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.25rem;
+  color: #666666;
+  margin: 10px 0 20px;
+}
+
+.u-section-1 .u-text-4 {
+  line-height: 1.8;
+  margin: 20px 0;
+}
+
+.u-section-1 .u-image-default {
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+} 
